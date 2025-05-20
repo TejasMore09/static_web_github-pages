@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  background-color: #52a3f4;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+  color: #007bff;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #333;
 }
 
 .App-logo {

@@ -18,6 +18,11 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <div className="container text-center mt-5">
+        <h1 className="text-primary">Welcome!</h1>
+        <p className="lead">Deployed with GitHub Pages</p>
+      </div>
     </div>
   );
 }
